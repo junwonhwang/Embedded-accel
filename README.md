@@ -2,7 +2,7 @@
 ## 팀원 : 1601675 황준원, 1601636 송호근
 ___
 ## 블록도
-![가속도 1](https://user-images.githubusercontent.com/65066914/174581879-80626918-39c4-4e14-9eec-4355b1cfd57a.PNG)
+![가속도2](https://user-images.githubusercontent.com/65066914/175487501-15ab1bd7-59d0-451d-a49f-9521e257d0ca.PNG)
 ___
 ### 구동 환경
 #### Jetson Nano Kit(4GB), OS Ver: Ubuntu 18.04 (jetpack)
